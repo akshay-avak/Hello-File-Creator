@@ -2,7 +2,7 @@
 
 # Roadmap
 
-- [X] Created one single file  
+[X] Allow user to specify file extension (e.g., `.txt`, `.md`)
 
 
 ## What i learned when researching this

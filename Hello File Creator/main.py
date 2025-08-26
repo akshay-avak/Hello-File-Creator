@@ -9,9 +9,10 @@ Step 3 : Create/files based on user input
 
 """
 file_name = input("Enter file name for the file/files to be created : ")
+file_type = input("Enter filetype for file 'txt/md' : ")
 num_of_files = int(input("How many files should be created? "))
 
 for num in range(1,num_of_files+1):
-    file = open(f"{file_name}{num}.txt","x")
+    file = open(f"{file_name}{num}.{file_type}","x")
 
 
