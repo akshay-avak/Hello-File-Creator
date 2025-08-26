@@ -2,7 +2,7 @@
 
 # Roadmap
 
-[X] Allow user to specify file extension (e.g., `.txt`, `.md`)
+- [X] Allow user to specify file extension (e.g., `.txt`, `.md`)
 
 
 ## What i learned when researching this
