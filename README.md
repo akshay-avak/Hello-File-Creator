@@ -3,8 +3,8 @@
 ### Roadmap
 
 - [X] Create one single file  
-- [ ] Create multiple files (bulk files)  
-- [ ] Create multiple files where user provides file name and number of files  
+- [X] Create multiple files (bulk files)  
+- [X] Create multiple files where user provides file name and number of files  
 - [ ] Allow user to specify file extension (e.g., `.txt`, `.md`)  
 - [ ] Add some default content inside created files   
 - [ ] Add option to create a new folder and store all files there  
