@@ -2,8 +2,8 @@
 
 # Roadmap
 
-- [X] Created one single file  
-
+- [X] Create multiple files (bulk files)  
+- [X] Create multiple files where user provides file 
 
 ## What i learned when researching this
 
